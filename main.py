@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import sys
 import tweepy
 import json
 
@@ -17,19 +16,20 @@ trendingtweet = api.trends_place(1)
 # Where On Earth ID for Colombia is 23424768.
 COLOMBIA_WOE_ID = 23424787
 
-colombia_trends = api.trends_place(COLOMBIA_WOE_ID)
+colombia_trends = api.trends_place(COLOMBIA_WOE_ID, wait_on_rate_limit=True)
 
 trends = json.loads(json.dumps(colombia_trends, indent=1))
 
 print("Las tendencias más importantes de Colombia son: ")
 
 
-search_hashtag = tweepy.Cursor(api.search, q="#6402BolsasNegrasDeUribe  filter:images").items(1)
-for trend in search_hashtag:
-    print(json.dumps(trend._json, indent=2))
+search_hashtags = tweepy.Cursor(
+    api.search, q="#6402BolsasNegrasDeUribe  filter:images", result_type="popular").items()
+for trend in search_hashtags:
+    res = trend._json
+    print(f"TEXTO: {res['text']} "
+          f"RETWEET COUNT: {res['retweet_count']} "
+          f"FAVORITE COUNT: {res['favorite_count']}")
+    print("@" * 100, "\n")
 
-
-
-# Pedaso Bugeado
-# print(sorted(trend._json, key = lambda i: i['retweet_count'],reverse=False))
-
+print("Exit")

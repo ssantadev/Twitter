@@ -1,0 +1,466 @@
+1	Abu Dhabi	1940330	AE	Asia
+2	Acapulco	110978	MX	America
+3	Accra	1326075	GH	Africa
+4	Adana	2343678	TR	Asia
+5	Adelaide	1099805	AU	Australia
+6	Aguascalientes	111579	MX	America
+7	Ahmedabad	2295402	IN	Asia
+8	Ahsa	56120136	SA	Asia
+9	Albuquerque	2352824	US	America
+10	Alexandria	1522006	EG	Africa
+11	Algeria	23424740	DZ	Africa
+12	Algiers	1253079	DZ	Africa
+13	Amman	1968902	JO	Asia
+14	Amritsar	2295388	IN	Asia
+15	Amsterdam	727232	NL	Europe
+16	Ankara	2343732	TR	Asia
+17	Ansan	1132444	KR	Asia
+18	Antalya	2343733	TR	Asia
+19	Antipolo	1198785	PH	Asia
+20	Argentina	23424747	AR	America
+21	Athens	946738	GR	Europe
+22	Atlanta	2357024	US	America
+23	Auckland	2348079	NZ	Australia
+24	Austin	2357536	US	America
+25	Australia	23424748	AU	Australia
+26	Austria	23424750	AT	Europe
+27	Bahrain	23424753	BH	Asia
+28	Baltimore	2358820	US	America
+29	Bandung	1047180	ID	Asia
+30	Bangalore	2295420	IN	Asia
+31	Bangkok	1225448	TH	Asia
+32	Barcelona	395273	VE	America
+33	Barcelona	753692	ES	Europe
+34	Barquisimeto	468382	VE	America
+35	Barranquilla	368151	CO	America
+36	Baton Rouge	2359991	US	America
+37	Bekasi	1030077	ID	Asia
+38	Belarus	23424765	BY	Europe
+39	Belém	455820	BR	America
+40	Belfast	44544	GB	Europe
+41	Belgium	23424757	BE	Europe
+42	Belo Horizonte	455821	BR	America
+43	Benin City	1387660	NG	Africa
+44	Bergen	857105	NO	Europe
+45	Berlin	638242	DE	Europe
+46	Bhopal	2295407	IN	Asia
+47	Bilbao	754542	ES	Europe
+48	Birmingham	12723	GB	Europe
+49	Birmingham	2364559	US	America
+50	Blackpool	12903	GB	Europe
+51	Bogotá	368148	CO	America
+52	Bologna	711080	IT	Europe
+53	Bordeaux	580778	FR	Europe
+54	Boston	2367105	US	America
+55	Bournemouth	13383	GB	Europe
+56	Brasília	455819	BR	America
+57	Brazil	23424768	BR	America
+58	Bremen	641142	DE	Europe
+59	Brest	824382	BY	Europe
+60	Brighton	13911	GB	Europe
+61	Brisbane	1100661	AU	Australia
+62	Bristol	13963	GB	Europe
+63	Bucheon	1132445	KR	Asia
+64	Buenos Aires	468739	AR	America
+65	Bursa	2343843	TR	Asia
+66	Busan	1132447	KR	Asia
+67	Cagayan de Oro	1199002	PH	Asia
+68	Cairo	1521894	EG	Africa
+69	Calgary	8775	CA	America
+70	Cali	368149	CO	America
+71	Calocan	1167715	PH	Asia
+72	Campinas	455828	BR	America
+73	Can Tho	1252351	VN	Asia
+74	Canada	23424775	CA	America
+75	Canberra	1100968	AU	Australia
+76	Cape Town	1591691	ZA	Africa
+77	Caracas	395269	VE	America
+78	Cardiff	15127	GB	Europe
+79	Cebu City	1199079	PH	Asia
+80	Changwon	1132449	KR	Asia
+81	Charlotte	2378426	US	America
+82	Chelyabinsk	1997422	RU	Asia
+83	Chennai	2295424	IN	Asia
+84	Chiba	1117034	JP	Asia
+85	Chicago	2379574	US	America
+86	Chihuahua	115958	MX	America
+87	Chile	23424782	CL	America
+88	Cincinnati	2380358	US	America
+89	Ciudad Guayana	395275	VE	America
+90	Ciudad Juarez	116556	MX	America
+91	Cleveland	2381475	US	America
+92	Cologne	667931	DE	Europe
+93	Colombia	23424787	CO	America
+94	Colorado Springs	2383489	US	America
+95	Columbus	2383660	US	America
+96	Concepcion	349860	CL	America
+97	Córdoba	466861	AR	America
+98	Cork	560472	IE	Europe
+99	Coventry	17044	GB	Europe
+100	Culiacán	117994	MX	America
+101	Curitiba	455822	BR	America
+102	Da Nang	1252376	VN	Asia
+103	Daegu	1132466	KR	Asia
+104	Daejeon	2345975	KR	Asia
+105	Dallas-Ft. Worth	2388929	US	America
+106	Dammam	1939574	SA	Asia
+107	Darwin	1101597	AU	Australia
+108	Davao City	1199136	PH	Asia
+109	Delhi	20070458	IN	Asia
+110	Den Haag	726874	NL	Europe
+111	Denmark	23424796	DK	Europe
+112	Denver	2391279	US	America
+113	Depok	1032539	ID	Asia
+114	Derby	18114	GB	Europe
+115	Detroit	2391585	US	America
+116	Diyarbakır	2343932	TR	Asia
+117	Dnipropetrovsk	918981	UA	Europe
+118	Dominican Republic	23424800	DO	America
+119	Donetsk	919163	UA	Europe
+120	Dortmund	645458	DE	Europe
+121	Dresden	645686	DE	Europe
+122	Dubai	1940345	AE	Asia
+123	Dublin	560743	IE	Europe
+124	Durban	1580913	ZA	Africa
+125	Dusseldorf	646099	DE	Europe
+126	Ecatepec de Morelos	118466	MX	America
+127	Ecuador	23424801	EC	America
+128	Edinburgh	19344	GB	Europe
+129	Edmonton	8676	CA	America
+130	Egypt	23424802	EG	Africa
+131	El Paso	2397816	US	America
+132	Eskişehir	2343980	TR	Asia
+133	Essen	648820	DE	Europe
+134	Faisalabad	2211574	PK	Asia
+135	Fortaleza	455830	BR	America
+136	France	23424819	FR	Europe
+137	Frankfurt	650272	DE	Europe
+138	Fresno	2407517	US	America
+139	Fukuoka	1117099	JP	Asia
+140	Galway	560912	IE	Europe
+141	Gaziantep	2343999	TR	Asia
+142	Gdańsk	493417	PL	Europe
+143	Geneva	782538	CH	Europe
+144	Genoa	716085	IT	Europe
+145	Germany	23424829	DE	Europe
+146	Ghana	23424824	GH	Africa
+147	Giza	1521643	EG	Africa
+148	Glasgow	21125	GB	Europe
+149	Goiânia	455831	BR	America
+150	Gomel	825978	BY	Europe
+151	Gothenburg	890869	SE	Europe
+152	Goyang	1130853	KR	Asia
+153	Greece	23424833	GR	Europe
+154	Greensboro	2414469	US	America
+155	Grodno	825848	BY	Europe
+156	Guadalajara	124162	MX	America
+157	Guarulhos	455867	BR	America
+158	Guatemala	23424834	GT	America
+159	Guatemala City	83123	GT	America
+160	Guayaquil	375733	EC	America
+161	Gwangju	1132481	KR	Asia
+162	Hai Phong	1236690	VN	Asia
+163	Haifa	1967449	IL	Asia
+164	Hamamatsu	1117155	JP	Asia
+165	Hamburg	656958	DE	Europe
+166	Hanoi	1236594	VN	Asia
+167	Harrisburg	2418046	US	America
+168	Hermosillo	124785	MX	America
+169	Hiroshima	1117227	JP	Asia
+170	Ho Chi Minh City	1252431	VN	Asia
+171	Honolulu	2423945	US	America
+172	Houston	2424766	US	America
+173	Hull	25211	GB	Europe
+174	Hulu Langat	56013645	MY	Asia
+175	Hyderabad	2295414	IN	Asia
+176	Ibadan	1393672	NG	Africa
+177	Incheon	1132496	KR	Asia
+178	India	23424848	IN	Asia
+179	Indianapolis	2427032	US	America
+180	Indonesia	23424846	ID	Asia
+181	Indore	2295408	IN	Asia
+182	Ipoh	1154679	MY	Asia
+183	Ireland	23424803	IE	Europe
+184	Irkutsk	2121040	RU	Asia
+185	Israel	23424852	IL	Asia
+186	Istanbul	2344116	TR	Asia
+187	Italy	23424853	IT	Europe
+188	Izmir	2344117	TR	Asia
+189	Jackson	2428184	US	America
+190	Jacksonville	2428344	US	America
+191	Jaipur	2295401	IN	Asia
+192	Jakarta	1047378	ID	Asia
+193	Japan	23424856	JP	Asia
+194	Jeddah	1939873	SA	Asia
+195	Jerusalem	1968222	IL	Asia
+196	Johannesburg	1582504	ZA	Africa
+197	Johor Bahru	1154698	MY	Asia
+198	Jordan	23424860	JO	Asia
+199	Kaduna	1396439	NG	Africa
+200	Kajang	1141268	MY	Asia
+201	Kano	1396803	NG	Africa
+202	Kanpur	2295378	IN	Asia
+203	Kansas City	2430683	US	America
+204	Karachi	2211096	PK	Asia
+205	Kawasaki	1117502	JP	Asia
+206	Kayseri	2344174	TR	Asia
+207	Kazan	2121267	RU	Asia
+208	Kenya	23424863	KE	Africa
+209	Khabarovsk	2018708	RU	Asia
+210	Kharkiv	922137	UA	Europe
+211	Kitakyushu	1110809	JP	Asia
+212	Klang	1154726	MY	Asia
+213	Kobe	1117545	JP	Asia
+214	Kolkata	2295386	IN	Asia
+215	Konya	2344210	TR	Asia
+216	Korea	23424868	KR	Asia
+217	Kraków	502075	PL	Europe
+218	Krasnodar	2028717	RU	Asia
+219	Krasnoyarsk	2029043	RU	Asia
+220	Kuala Lumpur	1154781	MY	Asia
+221	Kumamoto	1117605	JP	Asia
+222	Kumasi	1330595	GH	Africa
+223	Kuwait	23424870	KW	Asia
+224	Kyiv	924938	UA	Europe
+225	Kyoto	15015372	JP	Asia
+226	Lagos	1398823	NG	Africa
+227	Lahore	2211177	PK	Asia
+228	Las Palmas	764814	ES	Europe
+229	Las Vegas	2436704	US	America
+230	Latvia	23424874	LV	Europe
+231	Lausanne	783058	CH	Europe
+232	Lebanon	23424873	LB	Asia
+233	Leeds	26042	GB	Europe
+234	Leicester	26062	GB	Europe
+235	Leipzig	671072	DE	Europe
+236	León	131068	MX	America
+237	Lille	608105	FR	Europe
+238	Lima	418440	PE	America
+239	Liverpool	26734	GB	Europe
+240	Lodz	505120	PL	Europe
+241	London	44418	GB	Europe
+242	Long Beach	2441472	US	America
+243	Los Angeles	2442047	US	America
+244	Louisville	2442327	US	America
+245	Lucknow	2295377	IN	Asia
+246	Lviv	924943	UA	Europe
+247	Lyon	609125	FR	Europe
+248	Madrid	766273	ES	Europe
+249	Makassar	1046138	ID	Asia
+250	Makati	1180689	PH	Asia
+251	Malaga	766356	ES	Europe
+252	Malaysia	23424901	MY	Asia
+253	Manaus	455833	BR	America
+254	Manchester	28218	GB	Europe
+255	Manila	1199477	PH	Asia
+256	Maracaibo	395270	VE	America
+257	Maracay	395271	VE	America
+258	Marseille	610264	FR	Europe
+259	Maturín	468384	VE	America
+260	Mecca	1939897	SA	Asia
+261	Medan	1047908	ID	Asia
+262	Medellín	368150	CO	America
+263	Medina	1937801	SA	Asia
+264	Melbourne	1103816	AU	Australia
+265	Memphis	2449323	US	America
+266	Mendoza	332471	AR	America
+267	Mérida	133327	MX	America
+268	Mersin	2323778	TR	Asia
+269	Mesa	2449808	US	America
+270	Mexicali	133475	MX	America
+271	Mexico	23424900	MX	America
+272	Mexico City	116545	MX	America
+273	Miami	2450022	US	America
+274	Middlesbrough	28869	GB	Europe
+275	Milan	718345	IT	Europe
+276	Milwaukee	2451822	US	America
+277	Minneapolis	2452078	US	America
+278	Minsk	834463	BY	Europe
+279	Mombasa	1528335	KE	Africa
+280	Monterrey	134047	MX	America
+281	Montpellier	612977	FR	Europe
+282	Montreal	3534	CA	America
+283	Morelia	134091	MX	America
+284	Moscow	2122265	RU	Asia
+285	Multan	2211269	PK	Asia
+286	Mumbai	2295411	IN	Asia
+287	Munich	676757	DE	Europe
+288	Murcia	768026	ES	Europe
+289	Muscat	2268284	OM	Asia
+290	Nagoya	1117817	JP	Asia
+291	Nagpur	2282863	IN	Asia
+292	Nairobi	1528488	KE	Africa
+293	Nantes	613858	FR	Europe
+294	Naples	719258	IT	Europe
+295	Nashville	2457170	US	America
+296	Naucalpan de Juárez	134395	MX	America
+297	Netherlands	23424909	NL	Europe
+298	New Haven	2458410	US	America
+299	New Orleans	2458833	US	America
+300	New York	2459115	US	America
+301	New Zealand	23424916	NZ	Australia
+302	Newcastle	30079	GB	Europe
+303	Nezahualcóyotl	116564	MX	America
+304	Nigeria	23424908	NG	Africa
+305	Niigata	1117881	JP	Asia
+306	Nizhny Novgorod	2122471	RU	Asia
+307	Norfolk	2460389	US	America
+308	Norway	23424910	NO	Europe
+309	Nottingham	30720	GB	Europe
+310	Novosibirsk	2122541	RU	Asia
+311	Odesa	929398	UA	Europe
+312	Okayama	90036018	JP	Asia
+313	Okinawa	2345896	JP	Asia
+314	Oklahoma City	2464592	US	America
+315	Omaha	2465512	US	America
+316	Oman	23424898	OM	Asia
+317	Omsk	2122641	RU	Asia
+318	Orlando	2466256	US	America
+319	Osaka	15015370	JP	Asia
+320	Oslo	862592	NO	Europe
+321	Ottawa	3369	CA	America
+322	Pakistan	23424922	PK	Asia
+323	Palembang	1048059	ID	Asia
+324	Palermo	719846	IT	Europe
+325	Palma	769293	ES	Europe
+326	Panama	23424924	PA	America
+327	Paris	615702	FR	Europe
+328	Pasig	1187115	PH	Asia
+329	Patna	2295381	IN	Asia
+330	Pekanbaru	1040779	ID	Asia
+331	Perm	2122814	RU	Asia
+332	Perth	1098081	AU	Australia
+333	Peru	23424919	PE	America
+334	Petaling	56013632	MY	Asia
+335	Philadelphia	2471217	US	America
+336	Philippines	23424934	PH	Asia
+337	Phoenix	2471390	US	America
+338	Pittsburgh	2473224	US	America
+339	Plymouth	32185	GB	Europe
+340	Poland	23424923	PL	Europe
+341	Port Elizabeth	1586614	ZA	Africa
+342	Port Harcourt	1404447	NG	Africa
+343	Portland	2475687	US	America
+344	Porto Alegre	455823	BR	America
+345	Portsmouth	32452	GB	Europe
+346	Portugal	23424925	PT	Europe
+347	Poznań	514048	PL	Europe
+348	Preston	32566	GB	Europe
+349	Pretoria	1586638	ZA	Africa
+350	Providence	2477058	US	America
+351	Puebla	137612	MX	America
+352	Puerto Rico	23424935	PR	America
+353	Pune	2295412	IN	Asia
+354	Qatar	23424930	QA	Asia
+355	Quebec	3444	CA	America
+356	Querétaro	138045	MX	America
+357	Quezon City	1199682	PH	Asia
+358	Quito	375732	EC	America
+359	Rajkot	2295404	IN	Asia
+360	Raleigh	2478307	US	America
+361	Ranchi	2295383	IN	Asia
+362	Rawalpindi	2211387	PK	Asia
+363	Recife	455824	BR	America
+364	Rennes	619163	FR	Europe
+365	Richmond	2480894	US	America
+366	Riga	854823	LV	Europe
+367	Rio de Janeiro	455825	BR	America
+368	Riyadh	1939753	SA	Asia
+369	Rome	721943	IT	Europe
+370	Rosario	466862	AR	America
+371	Rostov-on-Don	2123177	RU	Asia
+372	Rotterdam	733075	NL	Europe
+373	Russia	23424936	RU	Asia
+374	Sacramento	2486340	US	America
+375	Sagamihara	1118072	JP	Asia
+376	Saint Petersburg	2123260	RU	Asia
+377	Saitama	1116753	JP	Asia
+378	Salt Lake City	2487610	US	America
+379	Saltillo	141272	MX	America
+380	Salvador	455826	BR	America
+381	Samara	2077746	RU	Asia
+382	San Antonio	2487796	US	America
+383	San Diego	2487889	US	America
+384	San Francisco	2487956	US	America
+385	San Jose	2488042	US	America
+386	San Luis Potosí	144265	MX	America
+387	Santiago	349859	CL	America
+388	Santo Domingo	76456	DO	America
+389	São Luís	455834	BR	America
+390	São Paulo	455827	BR	America
+391	Sapporo	1118108	JP	Asia
+392	Saudi Arabia	23424938	SA	Asia
+393	Seattle	2490383	US	America
+394	Semarang	1048324	ID	Asia
+395	Sendai	1118129	JP	Asia
+396	Seongnam	1132559	KR	Asia
+397	Seoul	1132599	KR	Asia
+398	Seville	774508	ES	Europe
+399	Sharjah	1940119	AE	Asia
+400	Sheffield	34503	GB	Europe
+401	Singapore	1062617	SG	Asia
+402	Singapore	23424948	SG	Asia
+403	South Africa	23424942	ZA	Africa
+404	Soweto	1587677	ZA	Africa
+405	Spain	23424950	ES	Europe
+406	Srinagar	2295387	IN	Asia
+407	St. Louis	2486982	US	America
+408	Stockholm	906057	SE	Europe
+409	Stoke-on-Trent	36240	GB	Europe
+410	Strasbourg	627791	FR	Europe
+411	Stuttgart	698064	DE	Europe
+412	Surabaya	1044316	ID	Asia
+413	Surat	2295405	IN	Asia
+414	Suwon	1132567	KR	Asia
+415	Swansea	36758	GB	Europe
+416	Sweden	23424954	SE	Europe
+417	Switzerland	23424957	CH	Europe
+418	Sydney	1105779	AU	Australia
+419	Taguig	1195098	PH	Asia
+420	Takamatsu	1118285	JP	Asia
+421	Tallahassee	2503713	US	America
+422	Tampa	2503863	US	America
+423	Tangerang	1048536	ID	Asia
+424	Tel Aviv	1968212	IL	Asia
+425	Thailand	23424960	TH	Asia
+426	Thane	2295410	IN	Asia
+427	Thessaloniki	963291	GR	Europe
+428	Tijuana	149361	MX	America
+429	Tokyo	1118370	JP	Asia
+430	Toluca	149769	MX	America
+431	Toronto	4118	CA	America
+432	Toulouse	628886	FR	Europe
+433	Tucson	2508428	US	America
+434	Turin	725003	IT	Europe
+435	Turkey	23424969	TR	Asia
+436	Turmero	395277	VE	America
+437	Ufa	2124045	RU	Asia
+438	Ukraine	23424976	UA	Europe
+439	Ulsan	1132578	KR	Asia
+440	United Arab Emirates	23424738	AE	Asia
+441	United Kingdom	23424975	GB	Europe
+442	United States	23424977	US	America
+443	Utrecht	734047	NL	Europe
+444	Valencia	395272	VE	America
+445	Valencia	776688	ES	Europe
+446	Valparaiso	349861	CL	America
+447	Vancouver	9807	CA	America
+448	Venezuela	23424982	VE	America
+449	Vienna	551801	AT	Europe
+450	Vietnam	23424984	VN	Asia
+451	Virginia Beach	2512636	US	America
+452	Vladivostok	2124288	RU	Asia
+453	Volgograd	2124298	RU	Asia
+454	Voronezh	2108210	RU	Asia
+455	Warsaw	523920	PL	Europe
+456	Washington	2514815	US	America
+457	Winnipeg	2972	CA	America
+458	Wroclaw	526363	PL	Europe
+459	Yekaterinburg	2112237	RU	Asia
+460	Yokohama	1118550	JP	Asia
+461	Yongin	1132094	KR	Asia
+462	Zamboanga City	1199980	PH	Asia
+463	Zapopan	151582	MX	America
+464	Zaporozhye	939628	UA	Europe
+465	Zaragoza	779063	ES	Europe
+466	Zurich	784794	CH	Europe

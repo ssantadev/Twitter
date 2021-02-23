@@ -11,10 +11,9 @@ access_token_secret = "OuwBWadPlNFw5XbRfZFDGcIFygi6DzumtAkf4rEpFjmKx"
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tweepy.API(auth)
-trendingtweet = api.trends_place(1)
 
 # Where On Earth ID for Colombia is 23424768.
-WOE_ID = 368148
+WOE_ID = 23424977 # USA
 
 
 # COUNTRIES WOE_ID
@@ -36,7 +35,7 @@ print(f"{trends}  \n")
 print("Los Twits más importantes de la tendencia son: \n")
 trendingtopic = trends[0]['trends'][tendencyPlace]['name']
 search_hashtags = tweepy.Cursor(
-    api.search, q=trendingtopic, result_type="popular").items(twitsPlace)
+    api.search, q="#DaftPunk", result_type="popular").items(twitsPlace)
 for trend in search_hashtags:
     res = trend._json
     print(f"TEXTO: {res['text']} "
